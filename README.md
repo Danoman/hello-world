@@ -1,4 +1,5 @@
 # hello-world
-Hello, Git world! I am here. Let's get started.
+Hello, Git world! I am here. I got started.
 
-So now I am going to start making some changes, and see how this all gets committed.
+I replaced my first change with this line.
+Cheers, JD
